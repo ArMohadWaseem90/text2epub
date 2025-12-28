@@ -1,16 +1,39 @@
-这个项目就是因为我下载了一些中文TXT小说，需要转成EPUB传到remarkable 2里，用calibra转EPUB非常慢
+# TXT 转 EPUB
 
-所以编写了python脚本
+我下载了一些中文 TXT 小说，需要转成 EPUB 传到 reMarkable 2 里。  
+用 Calibre 转 EPUB 对我来说太慢，所以写了这个 Python 脚本。
 
-用法：
+## 安装
 
-`python t2e.py`
+```bash
+python -m venv .venv
 
-不加参数，则将当前目录下的txt文件全部转化成epub
-或者
+# Windows：
+#   .venv\Scripts\activate
+# macOS/Linux：
+#   source .venv/bin/activate
 
-`python t2e.py input.txt`
+pip install -r requirements.txt
+````
 
-则将input.txt 转化为epub
+## 用法
 
-有些txt文件下载为乱码，自动转化
+不加参数：将当前目录下所有 `.txt` 文件批量转成 EPUB
+
+```bash
+python t2e.py
+```
+
+指定文件：只转换单个文件
+
+```bash
+python t2e.py input.txt
+```
+
+## 说明
+
+有些 TXT 下载后会出现乱码，一般是编码问题。
+脚本会自动检测文件编码并尽量正确转换。
+
+```
+```
